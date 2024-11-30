@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366844379597",
+    "project_id": "pocket-clinic-95e40",
+    "storage_bucket": "pocket-clinic-95e40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366844379597:android:4bb5e1bc9169582cf74484",
+        "android_client_info": {
+          "package_name": "com.example.pocket__clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_sBCTAZAKStAqOb-3mSd0mDn3JKPLWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366844379597:android:7a468744b14fb8acf74484",
+        "android_client_info": {
+          "package_name": "com.example.pocket_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_sBCTAZAKStAqOb-3mSd0mDn3JKPLWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
